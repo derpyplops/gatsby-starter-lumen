@@ -5,6 +5,7 @@ template: "post"
 draft: false
 slug: "hello-world"
 category: "Writing"
+tags: "dummy"
 description: "Hello world, I'm writing a blog!"
 socialImage: "/media/image-2.jpg"
 ---
