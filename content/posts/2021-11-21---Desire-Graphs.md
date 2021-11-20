@@ -25,7 +25,7 @@ sharpened my thinking a lot about my life direction.
 
 This is what my desire graph looks like.
 
-![Desire Graph!](/media/desire-graph.jpg)
+![Desire Graph!](/media/desire-graph.png)
 
 I've thought of doing a tool to make a desire graph, maybe that'll be a fun personal app idea / project to do.
 
